@@ -1,0 +1,5 @@
+[default]
+entity = matan-shtepel-carnegie-mellon-university
+project = cot-monitor
+base_url = https://api.wandb.ai
+
